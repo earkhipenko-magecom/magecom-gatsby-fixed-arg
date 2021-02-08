@@ -1,4 +1,5 @@
 {
+  "name": "magecom-gatsby-fixed-arg",
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/node": "^7.12.6",
@@ -160,5 +161,25 @@
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "description": "<p align=\"center\">   <a href=\"https://www.gatsbyjs.com\">     <img alt=\"Gatsby\" src=\"https://www.gatsbyjs.com/Gatsby-Monogram.svg\" width=\"60\" />   </a> </p> <h1 align=\"center\">   Gatsby v2 </h1>",
+  "version": "1.0.0",
+  "main": ".babelrc.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earkhipenko-magecom/magecom-gatsby-fixed-arg.git"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "author": "Max <mliksunov@magecom.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/earkhipenko-magecom/magecom-gatsby-fixed-arg/issues"
+  },
+  "homepage": "https://github.com/earkhipenko-magecom/magecom-gatsby-fixed-arg#readme"
 }
